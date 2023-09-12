@@ -1,6 +1,7 @@
-#pip install openai streamlit
-pip install pip@git+https://github.com/pypa/pip
-pip install openai streamlit@git+https://github.com/mjsaboor/TSapdm/edit/main/stappdm.py#L1
+
+#pip install pip@git+https://github.com/pypa/pip
+pip install "git+https://github.com/mjsaboor/TSapdm/edit/main/stappdm.py#L1"
+pip install openai streamlit
 # .streamlit/secrets.toml
 OPENAI_API_KEY = "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"
 
