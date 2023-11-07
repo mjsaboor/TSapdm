@@ -1,5 +1,5 @@
 
-#pip install pip@git+https://github.com/pypa/pip
+pip install pip@git+https://github.com/pypa/pip
 #pip install git+https://github.com/streamlit/streamlit.git
 pip install openai 
 pip install streamlit
