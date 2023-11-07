@@ -4,8 +4,8 @@
 #pip install openai 
 #pip install streamlit
 # .streamlit/secrets.toml
-git clone https://github.com/streamlit/streamlit.git 
-cd repository
+#git clone https://github.com/streamlit/streamlit.git 
+cd stappdm.py
 python setup.py install
 
 
