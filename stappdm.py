@@ -1,10 +1,14 @@
 
-pip install pip@git+https://github.com/pypa/pip
+#pip install pip@git+https://github.com/pypa/pip
 #pip install git+https://github.com/streamlit/streamlit.git
-pip install openai 
-pip install streamlit
+#pip install openai 
+#pip install streamlit
 # .streamlit/secrets.toml
-#git clone +https://github.com/streamlit/streamlit.git 
+git clone https://github.com/streamlit/streamlit.git 
+cd repository
+python setup.py install
+
+
 #pip install .
 
 OPENAI_API_KEY = "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"
