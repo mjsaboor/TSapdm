@@ -4,10 +4,13 @@
 #pip install openai 
 #pip install streamlit
 # .streamlit/secrets.toml
-#git clone https://github.com/streamlit/streamlit.git 
-cd stappdm.py
-python setup.py install
+git clone https://github.com/streamlit/streamlit.git 
+cd /path/to/streamlit
+python setup.py install -e .
 
+#$ git clone https://github.com/ncbi-nlp/NegBio.git
+#$ cd /path/to/negbio
+#$ python setup.py install --user
 
 #pip install .
 
