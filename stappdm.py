@@ -1,11 +1,12 @@
 
-#pip install pip@git+https://github.com/pypa/pip
+pip install git+https://github.com/pypa/pip
+#git clone git+https://github.com/pypa/pip
 #pip install git+https://github.com/streamlit/streamlit.git
 #pip install openai 
 #pip install streamlit
 # .streamlit/secrets.toml
 #git clone https://github.com/streamlit/streamlit.git 
-pip install git+https://github.com/user/repo.git
+#pip install git+https://github.com/user/repo.git
 cd /path/to/streamlit
 python setup.py install -e .
 
