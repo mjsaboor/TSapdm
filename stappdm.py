@@ -1,5 +1,5 @@
 
-pip install git+https://github.com/pypa/pip
+#pip install git+https://github.com/pypa/pip
 #git clone git+https://github.com/pypa/pip
 #pip install git+https://github.com/streamlit/streamlit.git
 #pip install openai 
@@ -7,8 +7,9 @@ pip install git+https://github.com/pypa/pip
 # .streamlit/secrets.toml
 #git clone https://github.com/streamlit/streamlit.git 
 #pip install git+https://github.com/user/repo.git
-cd /path/to/streamlit
-python setup.py install -e .
+git clone git@github.com:https-//github.com/streamlit/streamlit.git
+#cd /path/to/streamlit
+#python setup.py install -e .
 
 #$ git clone https://github.com/ncbi-nlp/NegBio.git
 #$ cd /path/to/negbio
